@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegionGuesser", "RegionGuesser\RegionGuesser.csproj", "{CE3D0357-1647-41B0-8F76-A809DE5FA6A0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5E7EC930-41E3-401C-9321-BBC25D1F7FEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE3D0357-1647-41B0-8F76-A809DE5FA6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3D0357-1647-41B0-8F76-A809DE5FA6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3D0357-1647-41B0-8F76-A809DE5FA6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3D0357-1647-41B0-8F76-A809DE5FA6A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB446C0-89E3-4C90-AF39-8B729B2C46D4}
+	EndGlobalSection
+EndGlobal
